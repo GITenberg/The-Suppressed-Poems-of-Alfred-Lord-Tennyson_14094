@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2987
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14094#The-Suppressed-Poems-of-Alfred-Lord-Tennyson
 gutenberg_issued: '2004-11-19'
 gutenberg_type: Text
 identifiers:
